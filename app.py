@@ -339,34 +339,34 @@ produtos = [
         "link": "https://sandbox.asaas.com/c/m9lhcxtjutqdgwkl"
     },
     {
-        "nome": "Calmix Calmante Natural antidepressivo",
+        "nome": "Calmix Calmante Natural Antidepressivo",
         "descricao": "O calmix foi especialmente desenvolvido para quem busca um alívio natural e eficaz contra os momentos de estresse e ansiedade. Combinando ervas poderosas como Camomila, Capim Cidreira, Erva Cidreira, Passiflora, Mulungu, Capim Limão, Melissa, Erva de São João e Alecrim, esse mix oferece um efeito calmante, relaxante e tranquilizante, promovendo o equilíbrio mental e o bem-estar físico.🍃 Fórmula Natural e Equilibrada – Cada erva tem propriedades únicas que trabalham em sinergia para promover o relaxamento, melhorar o sono e reduzir os níveis de estresse. O Mulungu e a Passiflora são conhecidos por suas ações calmantes, enquanto a Melissa e o Alecrim ajudam a acalmar a mente e melhorar o humor.",
         "imagem": "./img/produtos/calmix-antidepressivo.png",
-        "link": "https://pagseguro.com/calmix"
+        "link": "https://sandbox.asaas.com/c/a02d56t4vfwi4dol"
     },
     {
         "nome": "Composto Hipertensão",
         "descricao": "O Composto Hipertensão é uma fórmula fitoterápica desenvolvida especialmente para auxiliar no tratamento da pressão alta, promovendo o equilíbrio da saúde cardiovascular e o bem-estar geral.🔹 Principais BenefíciosAtua como diurético natural, auxiliando na eliminação de líquidos e na redução da sobrecarga do coração.Favorece a saúde cardiovascular, ajudando na regulação da pressão arterial.Contribui para o controle do colesterol, prevenindo complicações circulatórias. Possui ação anti-inflamatória e antioxidante, protegendo as células contra os radicais livres.",
         "imagem": "./img/produtos/composto-hipertensao.png",
-        "link": "https://pagseguro.com/hipertensao"
+        "link": "https://sandbox.asaas.com/c/m9lhcxtjutqdgwkl"
     },
     {
         "nome": "Elixir Saúde da mulher",
         "descricao": "Indicação: Inflamação no útero, corrimento, cólica menstrual, ovário policístico, regulador menstrual, ferida uterina, inflamação da via urinária, inflamação no óvario, menopausa, depurativo de sangue e limpa a pele.Ingredientes:  mamica de cadela, carapiá, erva joão da costa, algodãozinho, barbatimão, vassourinha, catuaba, sangra d'água, chapeu de couro, ipê roxo, agoniada, jatobá, jequitibá e erva de bicho.",
         "imagem": "./img/produtos/elixir-saude-da-mulher.png",
-        "link": "https://pagseguro.com/elixir-mulher"
+        "link": "https://sandbox.asaas.com/c/m9lhcxtjutqdgwkl"
     },
     {
         "nome": "Complexo Anemia",
         "descricao": "O Complexo Anemia foi desenvolvido para auxiliar no tratamento da anemia, promovendo mais saúde e bem-estar de forma natural. Sua fórmula reúne vitaminas essenciais, minerais e extratos de plantas que fortalecem o organismo e ajudam na formação do sangue.🔹 Benefícios principais:Contribui para o tratamento da anemiaAuxilia no aumento da produção de hemoglobinaFortalece o sistema imunológicoFonte de ácido fólico, vitamina C e vitamina B12Combina ervas e nutrientes funcionais que estimulam energia e vitalidade.",
         "imagem": "./img/produtos/complexo-anemia.png",
-        "link": "https://pagseguro.com/anemia"
+        "link": "https://sandbox.asaas.com/c/m9lhcxtjutqdgwkl"
     },
     {
         "nome": "Xarope Fito Saúde Natural",
         "descricao": "O Xarope Fito Saúde Natural é uma fórmula integrativa desenvolvida para fortalecer o sistema respiratório, aliviar sintomas de gripes, resfriados, bronquite asmática, tosse seca, pigarro e viroses, além de contribuir para o bem-estar geral do organismo.",
         "imagem": "./img/produtos/xarope-fito-saude-natural.png",
-        "link": "https://pagseguro.com/xarope"
+        "link": "https://sandbox.asaas.com/c/m9lhcxtjutqdgwkl"
     }
 ]
 
