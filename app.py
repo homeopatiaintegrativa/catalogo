@@ -401,7 +401,7 @@ for i, produto in enumerate(produtos):
 st.markdown("""
     <div class="footer">
         <p>🌿 Homeopatia Integrativa — Cuidando de você de forma natural, suave e duradoura.</p>
-        <p>📞 (11) 99999-9999 | ✉️ contato@homeopatiaintegrativa.com.br</p>
-        <p>📍 São Paulo, Brasil</p>
+        <p>📞 WhatsApp 31 98865-4614 | ✉️ homeopatiaintegrativaoficial@gmail.com</p>
+        <p>📍 Rua dos carijós 436 sala 307, Belo Horizonte, MG</p>
     </div>
 """, unsafe_allow_html=True)
